@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-homework-4-hooks-image-finder/static/css/main.98185078.chunk.css",
+    "main.js": "/react-homework-4-hooks-image-finder/static/js/main.07d1fc12.chunk.js",
+    "main.js.map": "/react-homework-4-hooks-image-finder/static/js/main.07d1fc12.chunk.js.map",
+    "runtime-main.js": "/react-homework-4-hooks-image-finder/static/js/runtime-main.b3d7f016.js",
+    "runtime-main.js.map": "/react-homework-4-hooks-image-finder/static/js/runtime-main.b3d7f016.js.map",
+    "static/css/2.3f4a0cdf.chunk.css": "/react-homework-4-hooks-image-finder/static/css/2.3f4a0cdf.chunk.css",
+    "static/js/2.8013372e.chunk.js": "/react-homework-4-hooks-image-finder/static/js/2.8013372e.chunk.js",
+    "static/js/2.8013372e.chunk.js.map": "/react-homework-4-hooks-image-finder/static/js/2.8013372e.chunk.js.map",
+    "index.html": "/react-homework-4-hooks-image-finder/index.html",
+    "static/css/2.3f4a0cdf.chunk.css.map": "/react-homework-4-hooks-image-finder/static/css/2.3f4a0cdf.chunk.css.map",
+    "static/css/main.98185078.chunk.css.map": "/react-homework-4-hooks-image-finder/static/css/main.98185078.chunk.css.map",
+    "static/js/2.8013372e.chunk.js.LICENSE.txt": "/react-homework-4-hooks-image-finder/static/js/2.8013372e.chunk.js.LICENSE.txt",
+    "static/media/close.4febeecc.svg": "/react-homework-4-hooks-image-finder/static/media/close.4febeecc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d7f016.js",
+    "static/css/2.3f4a0cdf.chunk.css",
+    "static/js/2.8013372e.chunk.js",
+    "static/css/main.98185078.chunk.css",
+    "static/js/main.07d1fc12.chunk.js"
+  ]
+}
